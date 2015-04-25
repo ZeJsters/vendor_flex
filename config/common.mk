@@ -109,7 +109,8 @@ include vendor/flex/config/themes_common.mk
 PRODUCT_PACKAGES += \
     Development \
     LatinIME \
-    BluetoothExt
+    BluetoothExt \
+    Profiles
 
 # Optional packages
 PRODUCT_PACKAGES += \
