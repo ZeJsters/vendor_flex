@@ -196,15 +196,18 @@ PRODUCT_VERSION_MINOR = 0
 PRODUCT_VERSION_MAINTENANCE = 0-RC0
 
 #FlexOS Statistics
-
 PRODUCT_COPY_FILES +=  \
-vendor/flex/proprietary/RomStats.apk:system/app/RomStats/RomStats.apk \
+    vendor/flex/proprietary/RomStats.apk:system/app/RomStats/RomStats.apk \
 
- PRODUCT_PROPERTY_OVERRIDES += \
+PRODUCT_PROPERTY_OVERRIDES += \
    ro.romstats.url=http://flexstats.cf \
    ro.romstats.name=FlexOS \
    ro.romstats.version=-$(PLATFORM_VERSION) \
    ro.romstats.tframe=7
+
+# Lantern
+PRODUCT_COPY_FILES +=  \
+    vendor/flex/proprietary/Lantern.apk:system/app/RomStats/Lantern.apk \
 
 # Set FLEX_BUILDTYPE from the env RELEASE_TYPE, for jenkins compat
 
