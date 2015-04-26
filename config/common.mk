@@ -72,7 +72,7 @@ PRODUCT_COPY_FILES += \
 
 # init.d support
 PRODUCT_COPY_FILES += \
-    vendor/flex/prebuilt/common/etc/init.d/00banner:system/etc/init.d/00banner \
+    vendor/flex/prebuilt/common/etc/init.d/00banner:system/etc/init.d/00bannelr \
     vendor/flex/prebuilt/common/bin/sysinit:system/bin/sysinit
 
 ifneq ($(TARGET_BUILD_VARIANT),user)
@@ -207,7 +207,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
 
 # Lantern
 PRODUCT_COPY_FILES +=  \
-    vendor/flex/proprietary/Lantern.apk:system/app/RomStats/Lantern.apk \
+    vendor/flex/proprietary/Lantern.apk:system/app/Lantern/Lantern.apk \
 
 # Set FLEX_BUILDTYPE from the env RELEASE_TYPE, for jenkins compat
 
