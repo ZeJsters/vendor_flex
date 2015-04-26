@@ -72,7 +72,7 @@ PRODUCT_COPY_FILES += \
 
 # init.d support
 PRODUCT_COPY_FILES += \
-    vendor/flex/prebuilt/common/etc/init.d/00banner:system/etc/init.d/00bannelr \
+    vendor/flex/prebuilt/common/etc/init.d/00banner:system/etc/init.d/00bannel \
     vendor/flex/prebuilt/common/bin/sysinit:system/bin/sysinit
 
 ifneq ($(TARGET_BUILD_VARIANT),user)
