@@ -1,3 +1,7 @@
+Thread Title: "[DEVICE CODENAME] FlexOS [Lollipop 5.1.X][UNOFFICIAL][DATE]"
+
+BB Code:
+
 [CENTER][IMG]https://github.com/FlexOS/packages_apps_Settings/raw/lp5.1/res/drawable-xxxhdpi/flex_logo.png[/IMG] 
 [INDENT][CODE]#include
 /*
