@@ -170,8 +170,7 @@ PRODUCT_PACKAGES += \
     Trebuchet \
     AudioFX \
     OmniSwitch \
-    LockClock \
-    Exchange2
+    LockClock
 
 # rsync
 PRODUCT_PACKAGES += \
