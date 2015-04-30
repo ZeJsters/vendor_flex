@@ -1,4 +1,4 @@
-Thread Title: "[DEVICE CODENAME] FlexOS [Lollipop 5.1.X][UNOFFICIAL][DATE]"
+Thread Title: "[DEVICE CODENAME] FlexOS [Lollipop 5.1.1_r1][UNOFFICIAL][DATE]"
 
 BB Code:
 
