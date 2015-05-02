@@ -19,7 +19,7 @@ $(call inherit-product, device/sony/taoshan/taoshan.mk)
 $(call inherit-product, vendor/flex/config/nfc_enhanced.mk)
 
 # Inherit CM common Phone stuff.
-$(call inherit-product, vendor/flex/config/common_full_phone.mk
+$(call inherit-product, vendor/flex/config/common_full_phone.mk)
 
 # Boot Animation
 TARGET_SCREEN_HEIGHT := 854
