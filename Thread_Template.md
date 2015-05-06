@@ -2,7 +2,7 @@ Thread Title: "[DEVICE CODENAME] FlexOS [Lollipop 5.1.1_r1][UNOFFICIAL][DATE]"
 
 BB Code:
 
-[CENTER][IMG]https://github.com/FlexOS/packages_apps_Settings/raw/lp5.1/res/drawable-xxxhdpi/flex_logo.png[/IMG] 
+[CENTER][IMG]https://raw.githubusercontent.com/FlexOS/packages_apps_Settings/lp5.1/res/drawable/flex_logo.png[/IMG] 
 [INDENT][CODE]#include
 /*
 * Your warranty is now void.
