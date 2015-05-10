@@ -50,6 +50,7 @@ BB Code:
 [*][FONT=Verdana]Statusbar Clock Color[/FONT]
 [*][FONT=Verdana]Statusbar Carrier[/FONT]
 [*][FONT=Verdana]Statusbar Clock Font[/FONT]
+[*][FONT=Verdana]Option to show four tiles per row[/FONT]
 [/LIST]
 
 [SIZE=7][FONT=Trebuchet MS][B][COLOR="SeaGreen"]FLEX UPDATES[/COLOR][/B][/FONT][/SIZE]
@@ -75,6 +76,7 @@ BB Code:
 [*]OmniROM
 [*]AOKP
 [*]AOSB
+[*]Euphoria OS
 [*]ThinkingBridge
 [*]Nico60, Temasek, Cristiano matos, snak3eat3r etc.
 [/LIST][/INDENT][/CENTER]
