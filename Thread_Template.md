@@ -18,13 +18,12 @@ BB Code:
 [YOUTUBE]W8Ig1AgeQEQ[/YOUTUBE]
 
 [SIZE=7][B][COLOR="RoyalBlue"]FEATURES[/COLOR][/B][/SIZE][/FONT]
-[LIST]
+[LIST]Ti
 [*][FONT=Verdana]FlexControl - All the tweaks and features at one place![/FONT]
 [*][FONT=Verdana]Animation Control - Toast animations, Listview animations and system transitions.[/FONT]
 [*][FONT=Verdana]HeadsUp Customizations just like Cm11![/FONT]
 [*][FONT=Verdana]Slim Shortcuts[/FONT]
 [*][FONT=Verdana]Navigation Bar Tweaks - On/Off Toggle, Dimensions[/FONT]
-[*][FONT=Verdana]Navigation Buttons Tint[/FONT]
 [*][FONT=Verdana]Slim Advanced IME Features[/FONT]
 [*][FONT=Verdana]Statusbar Network Speed Meter[/FONT]
 [*][FONT=Verdana]Screen Sound  Enable/Disable Toggle[/FONT]
@@ -50,6 +49,7 @@ BB Code:
 [*][FONT=Verdana]Statusbar Clock Color[/FONT]
 [*][FONT=Verdana]Statusbar Carrier[/FONT]
 [*][FONT=Verdana]Statusbar Clock Font[/FONT]
+[*][FONT=Verdana]Option to show four tiles per row[/FONT]
 [/LIST]
 
 [SIZE=7][FONT=Trebuchet MS][B][COLOR="SeaGreen"]FLEX UPDATES[/COLOR][/B][/FONT][/SIZE]
@@ -75,6 +75,7 @@ BB Code:
 [*]OmniROM
 [*]AOKP
 [*]AOSB
+[*]Euphoria OS
 [*]ThinkingBridge
 [*]Nico60, Temasek, Cristiano matos, snak3eat3r etc.
 [/LIST][/INDENT][/CENTER]
